@@ -1,0 +1,1682 @@
+[
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1752137255,
+    "message": "Merge branch 'feat/EOSAD-307' into 'feat/eos_advance'",
+    "added": 407,
+    "deleted": 37,
+    "files": 25,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/680acd9bcbdb62e4942be273802f941312c88ef2"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1752137255,
+    "message": "feat: ContentSwitcher \ucef4\ud3ec\ub10c\ud2b8 \uc815\uc758 & eslint \uaddc\uce59 \ucd94\uac00",
+    "added": 407,
+    "deleted": 37,
+    "files": 25,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/bc970b16f83ac1b008cb0888511b0ec07acbc037"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752134464,
+    "message": "fix: extend icon config props on Eos simple table component",
+    "added": 71,
+    "deleted": 122,
+    "files": 7,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/9664244d1c4be4799a7b0c8fa74b94a666b8d0e0"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752133417,
+    "message": "fix: extend icon config props on Eos table empty body component",
+    "added": 29,
+    "deleted": 30,
+    "files": 4,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/4c7bd7b2309190829bed6df29f2b99b5f5449674"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752130270,
+    "message": "Merge branch 'feat/EOSAD-135' into 'feat/eos_advance'",
+    "added": 380,
+    "deleted": 7,
+    "files": 10,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/efc63a56ee1c0a07d86f135074819abf18dbdc11"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752125066,
+    "message": "feat: \uc791\uc5c5 \uc0c1\ud0dc \ubcc0\uacbd \ubaa8\ub2ec \ubc84\ud2bc \ud14d\uc2a4\ud2b8 \ubcc0\uacbd",
+    "added": 3,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/6d560d28269a55f6a1e0bef551c6ed9ed72c2e8b"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752125009,
+    "message": "feat: orval eos install",
+    "added": 377,
+    "deleted": 5,
+    "files": 9,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/fa3c73e8b6eaad6fb1576d501ee28f91dc86b032"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "style: missing style gap",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/32b16e52f46035cc2c571170d38ca7ea9a890d34"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "fix: extend classname props optionally on step tag component",
+    "added": 8,
+    "deleted": 3,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/041ac8d11e6c43c097278aa48d39facbab3de0d8"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "fix: fix api schema changes",
+    "added": 40,
+    "deleted": 37,
+    "files": 9,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/0b9a795df0a451ba206cffa8b6d7fda06e0afa33"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "feat: apply skeleton design table and pagination, and also table main page 'TargetDeivices'",
+    "added": 135,
+    "deleted": 14,
+    "files": 14,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/f55474002a67f1d9312e5abee3dbe1a03ccf3472"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "refactor: remove legacy page and component 'device_selection'",
+    "added": 18,
+    "deleted": 2781,
+    "files": 22,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/5623b95fb6360d9369a661d299d1b89c9a6518c9"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "refactor: reloacte deploy target info table into parent modal",
+    "added": 2,
+    "deleted": 2,
+    "files": 4,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/2f854b58b6ba12f32c2459abfe466fd4b7259b2c"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "refactor: refactoring eos simple table - create vertical scroll detect hook and apply it - divide component to several files - style with scroll modified",
+    "added": 426,
+    "deleted": 319,
+    "files": 11,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/060f158518d91cc49902433171597f0c033599b8"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "fix: deploy taks config description logic fixed, and simple table header too",
+    "added": 15,
+    "deleted": 13,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/b4a80c7fdba076f541d9cfa2890859dfbaad90f5"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "refactor: apply user input(taskName, endDatetime) to config's pre notification modal. and remove delayTime of deploy config",
+    "added": 61,
+    "deleted": 104,
+    "files": 7,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/59c9ac6b3c0fe3f94c4dd095fd122d3ea7721739"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "refactor: EOS Table empty body modified to use icongraphy and distinct filter result zero, search term result zero cases",
+    "added": 105,
+    "deleted": 90,
+    "files": 8,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/3ead8b4ecc75179913b42b1706cb00d7f64e5ffb"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "refactor: remove sorting on task generation modal table, and resize fields",
+    "added": 43,
+    "deleted": 38,
+    "files": 7,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/fd511b55f43d0ac9d04294fe5c2e5679dded0b55"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123714,
+    "message": "style: step tag can get prop 'style' optionally",
+    "added": 7,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/505f7bf253dc1c3be4e8a16c256732449c4558bb"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123713,
+    "message": "refactor: relocate target devices components",
+    "added": 58,
+    "deleted": 109,
+    "files": 37,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/71a271a77faddf35005c900dc7615c969ef70da0"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123713,
+    "message": "fix: fix changed color var on paginated data table style css",
+    "added": 2,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/363633721d7f189fe773c2f37c5461c9afa37604"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123713,
+    "message": "fix: fix changed mock validation api schema",
+    "added": 8,
+    "deleted": 8,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/6a1d341e8e009dece78eb6c96da181f39472d3ab"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123713,
+    "message": "refactor: remove useless props and refactoring deploy task builder",
+    "added": 264,
+    "deleted": 157,
+    "files": 6,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/931c28a7ea9c592de7baf4735144cb626eddde81"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123713,
+    "message": "feat: create deploy schedule warning confirm modal",
+    "added": 53,
+    "deleted": 0,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/36d37305057b883be65d1254b8244bd3c3ff8125"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123713,
+    "message": "feat: create mock task name duplication check api and handler",
+    "added": 97,
+    "deleted": 0,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/fdcbee71dd46d0373a60659c971dc0fea5ba24a0"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752123713,
+    "message": "relocate deploy task name state on page root, to use in breadcrumb",
+    "added": 42,
+    "deleted": 62,
+    "files": 6,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/bf5cdd080772aa363d14a21d8c020d9839ec8d3c"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1752123578,
+    "message": "Merge branch 'feat/EOSAD-289' into 'feat/eos_advance'",
+    "added": 1477,
+    "deleted": 16,
+    "files": 51,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/6b740b7accda60faf6117ed3ab353b8209f7f4b8"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1752123578,
+    "message": "feat: ESA\uc6a9 \ubc84\ud2bc \uc0dd\uc131",
+    "added": 1477,
+    "deleted": 16,
+    "files": 51,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/65b52dce03a78063d07414692d4419ee2148230e"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752110731,
+    "message": "Merge branch 'feat/EOSAD-135' into 'feat/eos_advance'",
+    "added": 33,
+    "deleted": 52,
+    "files": 5,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/bfd5bd1e501ebd1dce3fd781ee77611ca318bf05"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752109059,
+    "message": "feat: \ucf54\ub4dc \ub9ac\ubdf0 \ubc18\uc601 - rowIndex \uc0c1\ud0dc \ub85c\uc9c1 \uc81c\uac70",
+    "added": 1,
+    "deleted": 17,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/bad86cbc26c047a0f758edde70b46e85034fc683"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752053433,
+    "message": "fix: fix eos device spec data not showing issue",
+    "added": 13,
+    "deleted": 0,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/d33296dfb370db93fa0340567c9611ababf32d5d"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752047204,
+    "message": "feat: \uc791\uc5c5 \ub0b4\uc5ed Step1 Tag \ucd94\uac00",
+    "added": 2,
+    "deleted": 0,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/28e05230cbe84319f0d304f7c4a3c3ed02c6afb2"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752044618,
+    "message": "Merge branch 'feat/eos_advance' of 192.168.3.210:fe-developer/x-core into feat/EOSAD-135",
+    "added": 13385,
+    "deleted": 8413,
+    "files": 120,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/1b8b076ace7be8a4df56429dfa866e4efa8f3c5a"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1752044534,
+    "message": "feat: \uc791\uc5c5 \uc0c1\ud0dc \ubcc0\uacbd \uad6c\ud604",
+    "added": 19,
+    "deleted": 24,
+    "files": 4,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/0944b5fce96c35b7b9d87793287faaa46950c1b6"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1752038635,
+    "message": "Merge branch 'feat/EOSAD-256' into 'feat/eos_advance'",
+    "added": 1087,
+    "deleted": 406,
+    "files": 18,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/1d8bd111bb5dbaa643e3b249f5c14c269aef7949"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1752038635,
+    "message": "fix: [FE] \ub300\uc2dc\ubcf4\ub4dc - (\ub514\uc790\uc778)\ucd5c\uadfc \ub3c4\uc6c0 \uc694\uccad\ud55c \uc0ac\uc6a9\uc790 Modal",
+    "added": 1087,
+    "deleted": 406,
+    "files": 18,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/eab35626f8ac9f130e93eeb8a7253497a63e8e5d"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752025629,
+    "message": "style: fix material react table head bg color by changing of css variable",
+    "added": 2,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/2406fdacd8cfa3e7bded02b0e9f53fffb2b12c2c"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752025556,
+    "message": "fix: fix data status when all fields hidden on setting activated/inactivated user data tables",
+    "added": 39,
+    "deleted": 21,
+    "files": 4,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/2932188381fd3cacf1e767a1181f07b443c298e9"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752025421,
+    "message": "fix: fix data status when all fields hidden on device data tables",
+    "added": 16,
+    "deleted": 6,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/795119c127c826aba8d1f83ca6c44030c1f37016"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752024605,
+    "message": "fix: fix data status when all fields hidden on log data tables",
+    "added": 227,
+    "deleted": 208,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/3d13d32630f5cdf267ac1dccb8fa78c7db98993a"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752021900,
+    "message": "fix: add grow true dummy field when all fields hided, it occur table head design issue",
+    "added": 42,
+    "deleted": 30,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/ac3223c034b38d726479775ef71f01a19de460a4"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1752019887,
+    "message": "fix: initialize state by pathname changes on Log data table",
+    "added": 11,
+    "deleted": 0,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/9359dfddcc2ecfd7e41993ec664bd797e0d60d0e"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751963492,
+    "message": "feat: \uc791\uc5c5 \uc0c1\ud0dc \ubcc0\uacbd \uc2a4\ud0c0\uc77c \ubc18\uc601",
+    "added": 15,
+    "deleted": 15,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/9e0c643b22c315c96c5ced45e10d42f91fe8a790"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "takminjoo (unknown)",
+    "timestamp": 1751962457,
+    "message": "feat: \ud398\uc774\uc9c0\ub124\uc774\uc158Table \uc784\uc2dc \ucee4\ubc0b",
+    "added": 922,
+    "deleted": 391,
+    "files": 13,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/818a416c9d634514bfe31cd7a3564fc6c2408021"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "takminjoo (unknown)",
+    "timestamp": 1751959342,
+    "message": "feat: EOS-API orval \uc0dd\uc131",
+    "added": 1487,
+    "deleted": 47,
+    "files": 33,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/212d614be2c4333814f39c79b07fa201a8c41558"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1751959192,
+    "message": "Merge branch 'feat/EOSAD-288' into 'feat/eos_advance'",
+    "added": 275,
+    "deleted": 90,
+    "files": 60,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/a838e61825b453ef571aeba565549b9877ea3449"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Tak Min-ju (mjtak, @mjtak)",
+    "timestamp": 1751959192,
+    "message": "Feat/eosad 288: Tag, StepTag \ucef4\ud3ec\ub10c\ud2b8 \uac1c\ubc1c \ubc0f \uac1c\uc120",
+    "added": 275,
+    "deleted": 90,
+    "files": 60,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/89426e0e5b6c04d1adf96cf3d8f102f8c632a686"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "takminjoo (unknown)",
+    "timestamp": 1751940198,
+    "message": "fix: pnpm-lock \ud30c\uc77c v9.4.0\uc73c\ub85c \uc7ac\uc0dd\uc131",
+    "added": 9519,
+    "deleted": 7474,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/c3b2b61d4c30b0226b6b29cfff585aea209778a0"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937885,
+    "message": "Merge branch 'feat/EOSAD-216' into 'feat/eos_advance'",
+    "added": 951,
+    "deleted": 330,
+    "files": 10,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/e8ccd039f80b646785b3c73ff6a96a5d3e0f6b18"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937709,
+    "message": "fix: fix eos deploy key list name",
+    "added": 2,
+    "deleted": 2,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/ce665466c568c1f14dd095eb3c58e7e5d18672c6"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937709,
+    "message": "fix: toast key duplicated issue fixed",
+    "added": 2,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/ca4cd9afc42dd7b4ccd966347a6bb3d91e5ab9c5"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937709,
+    "message": "fix: input\uc5d0\uc11c \ud55c\uae00 \uc785\ub825 \ud6c4 Enter \ud074\ub9ad \uc2dc event\uac00 \ub450\ubc88 \ud638\ucd9c\ub418\uc5b4 api \uc911\ubcf5 \ud638\ucd9c \ubc1c\uc0dd\ud558\ub294 \ubc84\uadf8 \uc218\uc815",
+    "added": 39,
+    "deleted": 8,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/e4b451d67299983052eaa419746e0fc8b294b8e8"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937709,
+    "message": "refactor: divide to id(tanium id) and computer id at ESA-EOS",
+    "added": 70,
+    "deleted": 66,
+    "files": 15,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/b6e38a450fc5a19f27ead4464e454704ded4d5bf"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937709,
+    "message": "fix: fix code by customizable table row identifier changed to id",
+    "added": 33,
+    "deleted": 31,
+    "files": 8,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/4fe6071d6442f140c7108b246d02a657222a583f"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937709,
+    "message": "refactor: refactoring by api schema update - customizable table row return id instead of computer_id - url query id instead of computer_id",
+    "added": 3,
+    "deleted": 6,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/1411160787b66cc733f9e222045f77907bdf5f9e"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937709,
+    "message": "fix: cypress fixed related with users/me",
+    "added": 299,
+    "deleted": 243,
+    "files": 8,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/91a4bd9bb580472ae897e4a40e3b0cda7524cdd4"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937708,
+    "message": "feat: show eos function to over or equal admin",
+    "added": 16,
+    "deleted": 5,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/3f2edb35d68a0175d992fb98337fae56b02d0ab7"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937708,
+    "message": "fix: fix code by users/me api schema update",
+    "added": 26,
+    "deleted": 21,
+    "files": 13,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/49ca40022868d7f9a0a7452e54b88926f45d3c9e"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937708,
+    "message": "refactor: refactoring by api schema update - user <-> account Permission type\uc5d0 \ub300\ud55c \uc2a4\ud0a4\ub9c8 \uad6c\ubd84",
+    "added": 51,
+    "deleted": 52,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/a3517916cdf55673452fcc7297e597db88e65ab8"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937708,
+    "message": "fix: account permission related (setting) api url fixed",
+    "added": 3,
+    "deleted": 3,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/f521c89a0a431d335fbf2dc43000131a6f82ae60"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751937708,
+    "message": "fix: restore tailwind css",
+    "added": 4,
+    "deleted": 0,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/7059c7e324074ad50b4a0b3a3fb829aa8bc8ed68"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751932763,
+    "message": "style: move default value of layout padding into .css.ts",
+    "added": 6,
+    "deleted": 6,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/9a20614323163c8d06a67a2a9a9488271bf37adb"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751932012,
+    "message": "Merge branch 'docs/storybook' into 'feat/eos_advance'",
+    "added": 132,
+    "deleted": 1,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/97ae5109bec0dd37276c595725c2853ebdd16fbe"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751878037,
+    "message": "feat: change style of previous tasks modal",
+    "added": 32,
+    "deleted": 39,
+    "files": 5,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/b52460859ccaa2fb53f5d61f9a348d2073bf4983"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751877849,
+    "message": "refactor: refactoring eos simple table - migrate to vanilla extract - add js doc and story - extend and modify props",
+    "added": 906,
+    "deleted": 283,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/460806d5ed53134ad42c3afe8b8f23cf694c8f1d"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751877537,
+    "message": "Merge branch 'feat/EOSAD-133' into 'feat/eos_advance'",
+    "added": 8915,
+    "deleted": 10631,
+    "files": 19,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/7c1506e05cfdee9e4d3a9fb2d5bb2d029970be67"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751877481,
+    "message": "feat: \ucf54\ub4dc \ub9ac\ubdf0 \ubc18\uc601 - \uc8fc\uc11d \ucd94\uac00",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/ee4a211623ddf6d544a5c22f47109d5f61a68ff8"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751875255,
+    "message": "Merge branch 'feat/eos_advance' of 192.168.3.210:fe-developer/x-core into feat/EOSAD-133",
+    "added": 710,
+    "deleted": 233,
+    "files": 18,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/e7ec4eba41f7578bebddd611b019a6d733869d1d"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751875207,
+    "message": "feat: ContentSwitcher \uc8fc\uc11d \ucd94\uac00",
+    "added": 21,
+    "deleted": 72,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/b8b7c47c36c0a197871751616c62f6f023312f39"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751873494,
+    "message": "feat: ContentSwitcher stories \ucd94\uac00",
+    "added": 272,
+    "deleted": 0,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/c0a0aed164e53b0ea679d07e5bf84b1119704e67"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751872707,
+    "message": "feat: \ucf54\ub4dc \ub9ac\ubdf0 \ubc18\uc601 - \ud15c\ud50c\ub9bf \ub9ac\ud130\ub7f4 undefined \ubc29\uc9c0",
+    "added": 6,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/91211e71d795efe1d6e7d8306f2151ef623ca5f0"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751872447,
+    "message": "Merge branch 'feat/EOSAD-154' into 'feat/eos_advance'",
+    "added": 704,
+    "deleted": 226,
+    "files": 15,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/0133d5ae0800b37b7f413272657f2ff255125dec"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751871976,
+    "message": "feat: \ucf54\ub4dc \ub9ac\ubdf0 \ubc18\uc601 - \ud398\uc774\uc9c0 \uc138\ub85c \uc2a4\ud06c\ub864",
+    "added": 17,
+    "deleted": 2,
+    "files": 4,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/10655a6b02134941b24abb10b461e0bef1a6697a"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "takminjoo (unknown)",
+    "timestamp": 1751870728,
+    "message": "fix : \ub300\uc2dc\ubcf4\ub4dc \ubc18\uc751\ud615 \ub514\uc790\uc778 \uc218\uc815",
+    "added": 6,
+    "deleted": 7,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/d7b732812d2c5f0506fa09e1220cccfaf10107c0"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751867726,
+    "message": "feat: extend to controll layout padding on table pagination",
+    "added": 8,
+    "deleted": 3,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/c00c8a6f3dd8f96ea0b4530766ff7075fe38402f"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "Kim Seong-hoon (ksh, @ksh)",
+    "timestamp": 1751866493,
+    "message": "feat: \ucf54\ub4dc \ub9ac\ubdf0 \ubc18\uc601 - Content Switcher fontWeight",
+    "added": 8,
+    "deleted": 4,
+    "files": 3,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/281d208143052205846e22c6ac4c029d82b8164b"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751864877,
+    "message": "chore: add type symbol",
+    "added": 2,
+    "deleted": 2,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/fbe2eb8876a6319c5e808f0b4cb30a5a816b46fb"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751864863,
+    "message": "fix: fix table param 'order' to use orderDecomposer func, and remove useless export",
+    "added": 23,
+    "deleted": 38,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/d85a089ea76260c3857f5cf92a5c8690c044de26"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751864327,
+    "message": "refactor: migrate to vanilla extract, remove directory depth on deploy target info table",
+    "added": 27,
+    "deleted": 4,
+    "files": 5,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/f137bc42d8c8e968546f2ed7a155dbda1c22c3d6"
+  },
+  {
+    "repo": "Frontend",
+    "developer": "chokim (unknown)",
+    "timestamp": 1751862815,
+    "message": "chore: setup vm-storybook",
+    "added": 132,
+    "deleted": 1,
+    "files": 2,
+    "link": "http://192.168.3.210/fe-developer/x-core/-/commit/6fff3564332ad5e87332dac1aaf7dbd1852f02ba"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752141917,
+    "message": "fix: tanium_id \ub9e4\ud551 \uc624\ub958 \ud574\uacb0",
+    "added": 3,
+    "deleted": 3,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/b0ad9f354fd0cb7c306649a3206a5c7d408d7b01"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752141741,
+    "message": "fix: \ub370\uc774\ud130\uc18c\uc2a4 \ub9e4\ud551 \uc624\ub958 \ud574\uacb0",
+    "added": 2,
+    "deleted": 4,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/2d8cb70fb47619c0a019f2ef4099984d72b37de2"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752141405,
+    "message": "fix: [] -> ()",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/44d4ab1e32d098fcec45f0a67634dddc20464fa1"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752141176,
+    "message": "fix: deploy device status \uc5c5\ub370\uc774\ud2b8",
+    "added": 68,
+    "deleted": 99,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/909ab85e27e0476d6ecb89fdd02244694e7cc712"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752138575,
+    "message": "fix: partial_update no response",
+    "added": 2,
+    "deleted": 5,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/13374882d884eecd09a24685ea8d7e4f735fd85c"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752137227,
+    "message": "fix: item unpack",
+    "added": 2,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/9d6baff86aa19f1f7d80e5bcf35a828f5afe1e8b"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752136942,
+    "message": "fix: \ub514\ud50c\ub85c\uc774 \uc0dd\uc131\uc5d0\uc11c tanium id \ucd94\uac00",
+    "added": 200,
+    "deleted": 50,
+    "files": 4,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/a5a53ba69414028e4d0c649da88b140d445ff3c7"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752131557,
+    "message": "feat: returning \uc5d0\uc11c _as \ucd94\uac00",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/5657d83521a2b7a2a98375a9968f57db3c92638d"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752131372,
+    "message": "fix: execute -> fetchrow",
+    "added": 10,
+    "deleted": 15,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/303c784262fb7b4b9c4c2888c091867e407512aa"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752129988,
+    "message": "fix: history partial test 2",
+    "added": 32,
+    "deleted": 23,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/f61d8e7656289ce4d2598076f2b183061ed49966"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752129340,
+    "message": "fix: kwargs \uc124\uc815 \uc624\ub958 \uc218\uc815",
+    "added": 4,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/7323421e3b588dec08e8bd899bc3a156f9ff3063"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752129139,
+    "message": "fix: init \uae30\ubcf8\uac12",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/9ba012e0959ba2df10acbaa79c4db0d818f0648b"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752128937,
+    "message": "fix: partial update \ub85c\uc9c1 \uc218\uc815",
+    "added": 95,
+    "deleted": 33,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/69c1b496d51d91fc45e38eee5388eb832aaf5424"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1752126978,
+    "message": "IEOSA-16 \uc62e\uae30\uba74\uc11c \ube60\uc9c4\ubd80\ubd84 fix",
+    "added": 85,
+    "deleted": 53,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/a07aa1f670a5bc1f70a4fe36c29bf606db0e5839"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752122561,
+    "message": "feat: history partial update  \uc791\uc5c5 \uc911\uc9c0/\ucde8\uc18c \ub85c\uc9c1 \uc218\uc815",
+    "added": 48,
+    "deleted": 217,
+    "files": 4,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/a79b4ef84d951599ac6043a78467c91b0b781f04"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1752122294,
+    "message": "\uc815\ub82c\uc870\uac74 \uc21c\uc11c \ubcc0\uacbd",
+    "added": 5,
+    "deleted": 7,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/d27bfb9fa3d329db6987e43b9b6758d28670e82b"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752114745,
+    "message": "feat: deploy list \ucffc\ub9ac\uc14b \ubcc0\uacbd",
+    "added": 19,
+    "deleted": 14,
+    "files": 4,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/bd0e7ef0f7a8e42fdae94226ef57f8e8c95d994c"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752109068,
+    "message": "fix: max target at \ube44\uad50 \uc5f0\uc0b0\uc790 \uc218\uc815",
+    "added": 6,
+    "deleted": 4,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/7bf7ec761bc053d1cd9aeb9d5e3c3c91573f206d"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752108596,
+    "message": "chore: \uc624\ud0c0 \uc218\uc815",
+    "added": 1,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/eb2b707ce02bcf19fd51b0522798b0d6edc03b46"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752108530,
+    "message": "fix: raw sql \uc0ad\uc81c",
+    "added": 7,
+    "deleted": 8,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/daf7b22fb6a72fd46b43b66f65fba7022edcdbce"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752106486,
+    "message": "fix: select_related \uc218\uc815",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/72ed0a646420f2defd91b827d97ac867b5eed6a5"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752052714,
+    "message": "fix: get_deploy_list",
+    "added": 282,
+    "deleted": 3,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/8f6b34c0fd2c44d7904995a369e2546559d863d2"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1752047658,
+    "message": "IEOSA-53 \ucc98\ub9ac \ubc0f excel \ucabd \ub204\ub77d\uceec\ub7fc \ucd94\uac00",
+    "added": 12,
+    "deleted": 4,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/ca00473c3b0b2326bb29c92b3c7ae725621f5fbf"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752037730,
+    "message": "feat: eos_deploy_group group count \ucd94\uac00",
+    "added": 12,
+    "deleted": 5,
+    "files": 6,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/94e7298088614e5dd796689f0d33f8ca70318bfc"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752025275,
+    "message": "fix: \ub514\ubc14\uc774\uc2a4 deploy history schedule",
+    "added": 22,
+    "deleted": 43,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/f51bf6f358461524456f0c635a05fa6a05e8b662"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752024838,
+    "message": "fix: history schedule",
+    "added": 23,
+    "deleted": 45,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/bcbd7dcf63899b54ea7a305b707bfaab88c7c449"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1752023265,
+    "message": "feat: \uc218\ud611 config \uc0dd\uc131",
+    "added": 88,
+    "deleted": 38,
+    "files": 4,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/2251361846e34ea282787f9c29484c773cd78204"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751965159,
+    "message": "fix: eos none sensor data \uc218\uc815",
+    "added": 4,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/53f9b519c3aeaba96d924a4eefb2901f0f3ec828"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751962693,
+    "message": "fix: task \uc13c\uc11c \ud0c0\uc785 \uc218\uc815",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/7ba68cb02cb23fef678ca823934a6e3360b94334"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751955432,
+    "message": "chore: \uc8fc\uc11d\ucc98\ub9ac\ub41c \ucf54\ub4dc \uc81c\uac70",
+    "added": 0,
+    "deleted": 13,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/d3243dddd29561558b2cc868e396d97ee7edd3cc"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751953471,
+    "message": "fix: field \uba85 \uc911\ubcf5\uc778 \uacbd\uc6b0\uac00 \uc788\uc5b4\uc11c base query\uc5d0\uc11c name_field_sql_name_dict \uc21c\uc11c \ubcc0\uacbd",
+    "added": 15,
+    "deleted": 14,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/50e87356d751f427e845d54972b980faf05beb81"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1751952986,
+    "message": "\uc815\ub82c \uc624\ubc84\ub77c\uc774\ub529 \ubb38\uc790\uc5f4 \ucc98\ub9ac \ucd94\uac00",
+    "added": 7,
+    "deleted": 5,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/0d64b04fa92cda62ca0a2410a4ae6bf8c9fae801"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751951742,
+    "message": "fix: many = True \uc13c\uc11c \uc218\uc9d1 \ub85c\uc9c1 \ubcc0\uacbd",
+    "added": 4,
+    "deleted": 5,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/efa6b0576dbfdcb2efed9e7140c9d244d905c45f"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1751951348,
+    "message": "IEOSA-29 \ubc18\uc601",
+    "added": 9,
+    "deleted": 0,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/1314c0eeedfb55b775f3b20b5dadc7ec7de75d05"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1751951314,
+    "message": "\ucf54\ub4dc \ucd94\uac00 \ub9ac\ud399\ud1a0\ub9c1(\ub3d9\uc77c\ub85c\uc9c1)",
+    "added": 6,
+    "deleted": 7,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/0e069d3a229e94a645019bf2298eba2ab1122b77"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1751951314,
+    "message": "IEOSA-29: \uc624\ub354\ub9c1\ud544\ud130 drf get_ordering \uba54\uc18c\ub4dc \uc624\ubc84\ub77c\uc774\ub529",
+    "added": 12,
+    "deleted": 0,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/0a61b3dd6f0da99e1044da6baf3f72d65c44163e"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751950265,
+    "message": "hotfix: username added",
+    "added": 1,
+    "deleted": 0,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/b1eb68f1e94911242d31d90ca2f0600e77f0ef49"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751949546,
+    "message": "fix: eos table \uc0dd\uc131 type=TANIUM",
+    "added": 1,
+    "deleted": 0,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/ee57bd9727f194132f85467aca2a011e95b8d454"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751949076,
+    "message": "fix: inner join -> left join",
+    "added": 10,
+    "deleted": 32,
+    "files": 6,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/8d26e81c31359eee3b4a0e884cd959e81dabb046"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751936205,
+    "message": "fix: HrInfo \ud14c\uc774\ube14 \uc81c\uac70",
+    "added": 1,
+    "deleted": 2,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/20e427b9e009efb754a8f0c5ce47f187eb4d8c26"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751932993,
+    "message": "fix: IEOSA-28: \ube44\ud65c\uc131\uc0ac\uc6a9\uc790 \uae30\ubcf8 \ucffc\ub9ac\uc14b \uc218\uc815",
+    "added": 3,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/6c49f0708decd308148592e2da6eac92eb94eb41"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751878857,
+    "message": "IEOSA-16 \uc2a4\ucf00\uc904\ub7ec\ub4f1\ub85d \ubc0f api \ub85c\uc9c1 \ubcc0\uacbd",
+    "added": 172,
+    "deleted": 1,
+    "files": 5,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/026a5745f223f353a909d5c70cf04b3628dd3726"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1751878821,
+    "message": "IEOSA-28: \ube44\ud65c\uc131\uc0ac\uc6a9\uc790 \uae30\ubcf8 \ucffc\ub9ac\uc14b \uc218\uc815",
+    "added": 2,
+    "deleted": 2,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/d72c326ace54da0d5c4a7fa7a7dc224403512f7e"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751876961,
+    "message": "Ieosa 19",
+    "added": 4,
+    "deleted": 0,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/071c08465abc5fe321c9d6b499431cf25e06928d"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751876854,
+    "message": "IEOSA-18: \uc0c1\ud0dc \uad00\ub828\ub85c\uc9c1 \ubcc0\uacbd \ubc0f IEOSA-17\uc758 \ucd94\uac00\uc694\uac74 \ubc18\uc601",
+    "added": 660,
+    "deleted": 78,
+    "files": 4,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/db906be9a95ae6e39754b50bf173d463bd33d67e"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751874705,
+    "message": "delete: \uae30\uc874 hrinfo \ub85c\uc9c1 \uc0ad\uc81c",
+    "added": 204,
+    "deleted": 433,
+    "files": 13,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/a7d09da6fd861f68683e086d21fd5594721f1d47"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1751872819,
+    "message": "\ub9ac\ubdf0\ubc18\uc601:\uc2a4\ucf00\uc904\ub7ec \ub4f1\ub85d \ubc0f \uba54\uc2dc\uc9c0 \ud14c\uc2a4\ud2b8",
+    "added": 5,
+    "deleted": 60,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/e2257112fd2d9aaf50843333012feb10b3011796"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751868769,
+    "message": "feat: system data source \uc0dd\uc131",
+    "added": 181,
+    "deleted": 14,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/dde825cd7f97714c3495619c0275144335057c53"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "Kim Jong-yun (jyunkim, @jyunkim)",
+    "timestamp": 1751867783,
+    "message": "IEOSA-16 \uc2a4\ucf00\uc904\ub7ec\ub4f1\ub85d \ubc0f api \ub85c\uc9c1 \ubcc0\uacbd",
+    "added": 311,
+    "deleted": 57,
+    "files": 9,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/612b89712097162e43bdc846231dbfbe21d646e0"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751864147,
+    "message": "migrations: map table index \uc124\uc815",
+    "added": 93,
+    "deleted": 21,
+    "files": 9,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/cdfd9c654fdf656d3a8f3e611acbaed8832990b8"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751860866,
+    "message": "fix: func name \uc7ac\ub9e4\uce6d",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/c145471c79c6465435b0fcc0762ad40f36272a1a"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751850975,
+    "message": "fix: func name \uc7ac\ub9e4\uce6d",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/f7c9cafd965df9b21fb49f7a2cd235f247efee5c"
+  },
+  {
+    "repo": "ESA-Backend",
+    "developer": "saokhueyang (unknown)",
+    "timestamp": 1751850320,
+    "message": "fix: table type -> HR \ucd94\uac00",
+    "added": 30,
+    "deleted": 2,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/esa-be/-/commit/3229b0503b3e61c1893eab0ae8b0de2fe2b71be8"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752108134,
+    "message": "feat: change _idxs to _ids",
+    "added": 3,
+    "deleted": 3,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/356141c95a9ab10bc51ae8fe549ffe6795d6717b"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752108089,
+    "message": "feat: add task create validation",
+    "added": 60,
+    "deleted": 21,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/2932e5586df8dfba9fe91bea4ffb26199064ab1b"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752046433,
+    "message": "Merge branch 'fix/tanium-deployment-operation' into 'main'",
+    "added": 19,
+    "deleted": 14,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/9b1ffcfd98185a8628766fd02993bcd59ac584c5"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752046257,
+    "message": "fix: bug fix",
+    "added": 19,
+    "deleted": 14,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/c1218a03f350b049a86b04211e16b4a7906ce996"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752043970,
+    "message": "Merge branch 'fix/create-deployment' into 'main'",
+    "added": 21,
+    "deleted": 29,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/446fb3a2b068df98d26169ce8b1cc619a33ae074"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752041201,
+    "message": "fix: create deployment bug fix",
+    "added": 21,
+    "deleted": 29,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/625d31bcaecaf9ab042943f2be5d239c7e3d7282"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752039145,
+    "message": "Merge branch 'feat/remove-async-from-get-query' into 'main'",
+    "added": 124,
+    "deleted": 258,
+    "files": 9,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/170584ce0bf6b9a1782e919976e9b62ff90c108f"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752038786,
+    "message": "feat: fix api call error",
+    "added": 17,
+    "deleted": 60,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/4615cd45a265da4e580854f6d83dc39dc94dfc55"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752038316,
+    "message": "feat: get_query to sync",
+    "added": 107,
+    "deleted": 198,
+    "files": 7,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/a097cc61d71e94f29e08ff41d279f6fa59a34e29"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752035680,
+    "message": "Merge branch 'feat/previous-tasks' into 'main'",
+    "added": 247,
+    "deleted": 157,
+    "files": 15,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/8b48ab9277a73e937d9ba5fa26b86c62fd9fbb7c"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752027591,
+    "message": "feat: merge main",
+    "added": 822,
+    "deleted": 596,
+    "files": 55,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/b74d87f912aebedef2b430f48ef4cb90d4d70c2c"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752026403,
+    "message": "feat: apply review",
+    "added": 14,
+    "deleted": 11,
+    "files": 4,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/caa16f87e2e4835b69d470422ddf3400ec6372f1"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1752025980,
+    "message": "feat: apply review",
+    "added": 54,
+    "deleted": 75,
+    "files": 7,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/8f321830f335f71730011c3bd022e5bff3de8984"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751959996,
+    "message": "feat: map available count",
+    "added": 100,
+    "deleted": 87,
+    "files": 7,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/215e6a3476fe60f5104f18a5b42a738bed61a841"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "bhsong (unknown)",
+    "timestamp": 1751950566,
+    "message": "Merge branch 'test/cd_test2' into 'main'",
+    "added": 60,
+    "deleted": 12,
+    "files": 6,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/73049daa95db93b7d6bf7166c050be4a75a15865"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751949816,
+    "message": "feat: dashboard step api\uc758 step type \ubcc0\uacbd - \uae30\uc874 int -> Step\uc73c\ub85c \ud0c0\uc785 \ubcc0\uacbd",
+    "added": 22,
+    "deleted": 11,
+    "files": 5,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/5789ec6da9ef5818fd111d5432a285e3a6cbaff9"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "bhsong (unknown)",
+    "timestamp": 1751941586,
+    "message": "Merge branch 'fix/target-devices' into 'main'",
+    "added": 31,
+    "deleted": 96,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/1774f6922ecac867e1888dd42cd60c41252a6989"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751940668,
+    "message": "fix: bug fix",
+    "added": 31,
+    "deleted": 96,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/d57747f9ab303b34cd98bdf71854e2cfd3ef4b18"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751940379,
+    "message": "pyproject.toml \uc218\uc815 - black, isort, ruff \ucd94\uac00",
+    "added": 38,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/676808c3784416eceea9aecdb1fcf046c4073cda"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "bhsong (unknown)",
+    "timestamp": 1751939570,
+    "message": "Merge branch 'test/cd_test1' into 'main'",
+    "added": 807,
+    "deleted": 622,
+    "files": 56,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/0b264981eb8b2afe8213a15f4a5ce2a1630b2f7f"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751939515,
+    "message": "black & isort \uc801\uc6a9",
+    "added": 807,
+    "deleted": 622,
+    "files": 56,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/c4762ac47c41b08a02742fd2b91e8cc881c942d5"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "bhsong (unknown)",
+    "timestamp": 1751936856,
+    "message": "Merge branch 'feat/modify_calendar_parameter' into 'main'",
+    "added": 8,
+    "deleted": 18,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/9641c13ccca44d86520a9e72b378fb8b8a44760f"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751936645,
+    "message": "feat: calendar filtering \uc81c\uac70 - \uc720\uc800 idx 1\ub85c \ubcc0\uacbd - user_idx \uc801\uc6a9 \uc2dc \ud504\ub860\ud2b8\uc5d0\uc11c api\ud638\ucd9c \ubd88\uac00",
+    "added": 8,
+    "deleted": 18,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/af88f1eb3be1875733b67e5fd1bf83943502d298"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "bhsong (unknown)",
+    "timestamp": 1751936196,
+    "message": "Merge branch 'feat/token_helper' into 'main'",
+    "added": 114,
+    "deleted": 23,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/3ae2a3581d3761582f2a67c978fc527dd95d8c8c"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751878472,
+    "message": "\ub9ac\ubdf0 \ubc18\uc601 - \uc0c1\uc218 -> \ud658\uacbd\ubcc0\uc218\ub85c \uac12 \uac00\uc838\uc624\ub3c4\ub85d \ubcc0\uacbd - \ud3ec\ud2b8 \ubcc0\uacbd - User None check \uc218\uc815",
+    "added": 6,
+    "deleted": 6,
+    "files": 2,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/3108ca1e5078452aafd88828eef4285153b95898"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751877517,
+    "message": "user \ud1a0\ud070 decode",
+    "added": 115,
+    "deleted": 24,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/796e2f1f48af2337ff8d6d46d718987f48b82d68"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751875314,
+    "message": "feat: add previous tasks api",
+    "added": 121,
+    "deleted": 3,
+    "files": 5,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/cf0ef56c53da5449dc047ac6653aceebbace7d34"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751867437,
+    "message": "Merge branch 'feat/create-deployment-to-tanium' into 'main'",
+    "added": 274,
+    "deleted": 87,
+    "files": 8,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/a613351ceff67abdc03e5de191b2eb6c9d56d24a"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751867415,
+    "message": "feat: add logger",
+    "added": 26,
+    "deleted": 1,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/9e5e7cc5e77ce9fefae0c6a694700b170fbdd66f"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751866461,
+    "message": "feat: apply review",
+    "added": 6,
+    "deleted": 1,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/db8cbe014344174b721bff856677e15a09cc5290"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751866461,
+    "message": "\uacbd\uc11d\ub2d8 \ub9ac\ubdf0 \ubc18\uc601 - create_table -> create_table_row\ub85c \ubcc0\uacbd - \uc0ac\uc6a9\uc548\ud558\ub294 \ubcc0\uc218 \uc81c\uac70",
+    "added": 2,
+    "deleted": 4,
+    "files": 1,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/5cc3fd66ca4d42b9f89cf554dffed3341f2fbec5"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1751866461,
+    "message": "hotfix: eos sensor \ub4f1\ub85d python script\uac1c\ubc1c - \ucd94\uac00\ub85c enum.py \uc774\ub984 base_enum\uc73c\ub85c \ubcc0\uacbd",
+    "added": 517,
+    "deleted": 2,
+    "files": 4,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/9c2f9deddb4cde44fc0c5b809216481efd0b721f"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751866437,
+    "message": "Merge branch 'feat/add-logger' into 'main'",
+    "added": 23,
+    "deleted": 2,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/92e4178084157b6c523e735ab1f050371133393d"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751863226,
+    "message": "feat: add logger",
+    "added": 23,
+    "deleted": 2,
+    "files": 3,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/2d37d8f39c0805ba0cbe01d8bcf5f4cba3f073e1"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "kspark (unknown)",
+    "timestamp": 1751846589,
+    "message": "feat: cleanup code",
+    "added": 269,
+    "deleted": 91,
+    "files": 9,
+    "link": "http://192.168.3.210/be-developer/eos-backend/-/commit/438b7fb56c17480b249f811c5f0cc93314f96be4"
+  }
+]
