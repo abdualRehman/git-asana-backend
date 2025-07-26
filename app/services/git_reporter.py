@@ -13,9 +13,9 @@ load_dotenv()
 
 # Get repository paths from environment variables
 REPO_PATHS = {
-    "Frontend": os.getenv("FRONTEND_REPO_PATH", "../Github/x-core"),
-    "ESA-Backend": os.getenv("ESA_REPO_PATH", "../Github/esa-be"),
-    "EOS-Backend": os.getenv("EOS_REPO_PATH", "../Github/eos-backend")
+    "Frontend": os.getenv("FRONTEND_REPO_PATH", "./Github/x-core"),
+    "ESA-Backend": os.getenv("ESA_REPO_PATH", "./Github/esa-be"),
+    "EOS-Backend": os.getenv("EOS_REPO_PATH", "./Github/eos-backend")
 }
 
 # Base URLs for the repositories
