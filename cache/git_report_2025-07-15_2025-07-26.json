@@ -1,0 +1,101 @@
+[
+  {
+    "repo": "EOS-Backend",
+    "developer": "Song Bin-ho (bhsong, \uc1a1\ube48\ud638, @bhsong)",
+    "timestamp": 1752541985,
+    "message": "Merge branch 'feat/filtering_db' into 'main'",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/8b40b9e68600c81e2c37648c91569a3f87d53190",
+    "datetime": "2025-07-15 01:13:05"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1752541925,
+    "message": "\ubc30\ud3ec\uc6a9",
+    "added": 1,
+    "deleted": 1,
+    "files": 1,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/61072570def7307e90f3b71c3421ac52fedd3483",
+    "datetime": "2025-07-15 01:12:05"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "Song Bin-ho (bhsong, \uc1a1\ube48\ud638, @bhsong)",
+    "timestamp": 1752541019,
+    "message": "Merge branch 'feat/filtering_db' into 'main'",
+    "added": 20,
+    "deleted": 0,
+    "files": 1,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/8c128ddda5777ba3bb6384035b4e1b9d41062f64",
+    "datetime": "2025-07-15 00:56:59"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1752540999,
+    "message": "\ubc30\ud3ec\uc6a9",
+    "added": 20,
+    "deleted": 0,
+    "files": 1,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/bd6c606bdf5cd250f548f9c3b19df7af890dc5ad",
+    "datetime": "2025-07-15 00:56:39"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "Song Bin-ho (bhsong, \uc1a1\ube48\ud638, @bhsong)",
+    "timestamp": 1752539221,
+    "message": "Merge branch 'feat/filtering_db' into 'main'",
+    "added": 542,
+    "deleted": 89,
+    "files": 15,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/a147640aa27434e8e64e2ecb03e1acf6a012ca66",
+    "datetime": "2025-07-15 00:27:01"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1752539192,
+    "message": "Merge remote-tracking branch 'origin/feat/filtering_db' into feat/filtering_db",
+    "added": 3,
+    "deleted": 2,
+    "files": 1,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/847ea2a33ca03d1e6a7c8dd46ad13e53e10776cd",
+    "datetime": "2025-07-15 00:26:32"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1752539103,
+    "message": "\ubc30\ud3ec\uc6a9",
+    "added": 25,
+    "deleted": 4,
+    "files": 5,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/df896a23304b919a490d84e9153aea45da1b8def",
+    "datetime": "2025-07-15 00:25:03"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1752539065,
+    "message": "feat: db\ub85c filtering \uc9c4\ud589\ud558\ub3c4\ub85d \ubcc0\uacbd",
+    "added": 517,
+    "deleted": 86,
+    "files": 11,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/d15516642742e84be2e5f13d4f08aeb536b6b80a",
+    "datetime": "2025-07-15 00:24:25"
+  },
+  {
+    "repo": "EOS-Backend",
+    "developer": "binho.song (unknown)",
+    "timestamp": 1752538710,
+    "message": "\ubc30\ud3ec\uc6a9",
+    "added": 30,
+    "deleted": 12,
+    "files": 6,
+    "link": "https://github.com/XAION-Inc/eos-backend/commit/5f6534b8922d65c1bd56888149168d3ce42e5024",
+    "datetime": "2025-07-15 00:18:30"
+  }
+]

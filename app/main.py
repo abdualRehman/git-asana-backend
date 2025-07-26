@@ -1,5 +1,6 @@
 import os
 import sys
+import glob
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -62,9 +63,35 @@ def health_check():
 
 @app.post("/reload_all")
 def reload_all():
+    # Clear all cache files
+    # Use absolute path relative to project root
+    cache_dir = project_root / "cache"
+    deleted_files = []
+    
+    print(f"Looking for cache directory at: {cache_dir}")
+    
+    if cache_dir.exists():
+        # Delete all JSON files in cache directory
+        cache_files = list(cache_dir.glob("*.json"))
+        print(f"Found cache files: {cache_files}")
+        
+        for cache_file in cache_files:
+            try:
+                cache_file.unlink()  # Use Path.unlink() instead of os.remove()
+                deleted_files.append(cache_file.name)
+                print(f"Deleted: {cache_file.name}")
+            except OSError as e:
+                print(f"Error deleting cache file {cache_file}: {e}")
+    else:
+        print(f"Cache directory does not exist: {cache_dir}")
+    
+    # Reload data after clearing cache
     asana_tasks = fetch_tasks(force_refresh=True)
     git_result = reload_git_repos()
+    
     return {
+        "cache_cleared": deleted_files,
+        "cache_directory": str(cache_dir),
         "asana_reloaded": len(asana_tasks),
         "git_result": git_result
     }

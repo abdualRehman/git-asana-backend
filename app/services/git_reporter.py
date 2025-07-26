@@ -98,13 +98,23 @@ def run_git_log(repo_name, repo_path, since, until):
     return commits
 
 def generate_git_report(start_date: str, end_date: str, use_cache: bool = False):
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    cache_file = os.path.join(CACHE_DIR, f"git_report_{start_date}_{end_date}.json")
 
-    # os.makedirs(CACHE_DIR, exist_ok=True)
-    # cache_file = os.path.join(CACHE_DIR, f"git_report_{start_date}_{end_date}.json")
-
-    # if use_cache and os.path.exists(cache_file):
-    #     with open(cache_file, "r", encoding="utf-8") as f:
-    #         return json.load(f)
+    if use_cache and os.path.exists(cache_file):
+        try:
+            with open(cache_file, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if content:  # Check if file is not empty
+                    return json.loads(content)
+                else:
+                    # File is empty, remove it and continue with fresh data
+                    os.remove(cache_file)
+        except (json.JSONDecodeError, IOError) as e:
+            # Cache file is corrupted, remove it and continue with fresh data
+            print(f"Cache file corrupted, removing: {cache_file}")
+            if os.path.exists(cache_file):
+                os.remove(cache_file)
 
     since = f"{start_date}T00:00:00"
     until = f"{end_date}T23:59:59"
@@ -122,10 +132,12 @@ def generate_git_report(start_date: str, end_date: str, use_cache: bool = False)
 
     df['datetime'] = pd.to_datetime(df['timestamp'], unit='s')
     df.sort_values(by="datetime", ascending=False, inplace=True)
+    
+    # Convert back to list of dictionaries for consistent return format
+    processed_commits = df.to_dict(orient="records")
 
-    # with open(cache_file, "w", encoding="utf-8") as f:
-    #     json.dump(df.to_dict(orient="records"), f, indent=2)
+    # Cache the processed and sorted data
+    with open(cache_file, "w", encoding="utf-8") as f:
+        json.dump(processed_commits, f, indent=2, default=str)
 
-    # with open(cache_file, "w", encoding="utf-8") as f:
-    #     json.dump(all_commits, f, indent=2)
-    return all_commits
+    return processed_commits
